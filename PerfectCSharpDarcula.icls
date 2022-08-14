@@ -1,0 +1,110 @@
+<scheme name="PerfectCSharpDarcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2022-08-12T00:05:08</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2021.2.1.0.0</property>
+    <property name="modified">2022-08-12T00:05:19</property>
+    <property name="originalScheme">PerfectCSharpDarcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="e6b163" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c77733" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="e6b163" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3a3a2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="313a31" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3a313a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2e3939" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="452828" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_ACCESSOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="c7773e" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_FIELD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="be7070" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="be7070" />
+        <option name="EFFECT_COLOR" value="707d95" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="467cda" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PROPERTY_IDENTIFIER">
+      <value />
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_FIELD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="529d52" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="be9970" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

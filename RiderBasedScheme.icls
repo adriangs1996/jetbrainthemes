@@ -1,15 +1,40 @@
-<scheme name="Rider Dark" version="142" parent_scheme="Rider Dark">
+<scheme name="RiderBaseScheme" version="142" parent_scheme="Rider Dark">
   <metaInfo>
-    <property name="created">2022-07-13T19:04:15</property>
-    <property name="ide">Rider</property>
-    <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2022-07-13T19:04:49</property>
-    <property name="originalScheme">_@user_Rider Dark</property>
+    <property name="created">2022-07-14T00:19:27</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2021.2.2.0.0</property>
+    <property name="modified">2022-07-14T00:19:42</property>
+    <property name="originalScheme">RiderBaseScheme</property>
   </metaInfo>
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="313335" />
+  </colors>
   <attributes>
+    <option name="DART_CONSTRUCTOR">
+      <value>
+        <option name="FOREGROUND" value="66c3cc" />
+      </value>
+    </option>
+    <option name="DART_ENUM">
+      <value>
+        <option name="FOREGROUND" value="afbf7e" />
+      </value>
+    </option>
+    <option name="DART_TOP_LEVEL_GETTER_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="bdbdbd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="66c3cc" />
+      </value>
+    </option>
+    <option name="DEFAULT_COMMA">
+      <value>
+        <option name="FOREGROUND" value="bdbdbd" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -18,6 +43,13 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_DOT">
+      <value>
+        <option name="FOREGROUND" value="bdbdbd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="9876aa" />
@@ -31,6 +63,12 @@
     <option name="DEFAULT_METADATA">
       <value>
         <option name="FOREGROUND" value="bbb529" />
+      </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="bdbdbd" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -81,7 +119,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ReSharper.DELEGATE_IDENTIFIER" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="ReSharper.DELEGATE_IDENTIFIER" baseAttributes="" />
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="afbf7e" />
@@ -102,10 +140,16 @@
         <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
-    <option name="ReSharper.STRUCT_IDENTIFIER" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="ReSharper.STRUCT_IDENTIFIER" baseAttributes="" />
     <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="afbf7e" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="d0d0d0" />
+        <option name="BACKGROUND" value="282828" />
       </value>
     </option>
     <option name="TS.CLASS" baseAttributes="DEFAULT_CLASS_NAME" />

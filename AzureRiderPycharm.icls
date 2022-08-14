@@ -1,0 +1,183 @@
+<scheme name="AzureRiderPycharm" version="142" parent_scheme="Rider Dark">
+  <metaInfo>
+    <property name="created">2022-07-28T20:11:29</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2021.2.2.0.0</property>
+    <property name="modified">2022-07-28T20:11:52</property>
+    <property name="originalScheme">AzureRiderPycharm</property>
+  </metaInfo>
+  <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="202020" />
+    <option name="GUTTER_BACKGROUND" value="202020" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="66c3cc" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="66c3cc" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_INSTANCE_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="afbf7e" />
+      </value>
+    </option>
+    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_LOCAL_VARIABLE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_METADATA">
+      <value>
+        <option name="FOREGROUND" value="39cc8f" />
+      </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="2f2f21" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="262f26" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="2f262f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="222d2d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="3c1f1f" />
+      </value>
+    </option>
+    <option name="JS.CLASS" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="c191ff" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="afbf7e" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="c191ff" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="85c46c" />
+      </value>
+    </option>
+    <option name="PY.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ed94c0" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ed94c0" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="ed94c0" />
+      </value>
+    </option>
+    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
+    <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
+      <value />
+    </option>
+    <option name="ReSharper.CSHARP_ACCESSOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="6c95eb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DELEGATE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="e1bfff" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_CLASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="e1bfff" />
+      </value>
+    </option>
+    <option name="ReSharper.DELEGATE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="c191ff" />
+      </value>
+    </option>
+    <option name="ReSharper.ENUM_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="afbf7e" />
+      </value>
+    </option>
+    <option name="ReSharper.NAMESPACE_IDENTIFIER" baseAttributes="" />
+    <option name="ReSharper.OPERATOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="39cc8f" />
+      </value>
+    </option>
+    <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="afbf7e" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="bdbdbd" />
+        <option name="BACKGROUND" value="1f1f1f" />
+      </value>
+    </option>
+    <option name="TS.CLASS" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="TS.INTERFACE" baseAttributes="DEFAULT_INTERFACE_NAME" />
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="afbf7e" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
